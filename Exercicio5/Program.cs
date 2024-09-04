@@ -1,6 +1,6 @@
 ﻿using System;
 
-class program{
+class Program{
 
     static void Main(string[] args){
         Console.WriteLine("Insira o primeiro valor: ");
