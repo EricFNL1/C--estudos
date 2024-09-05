@@ -1,0 +1,15 @@
+C:\Users\Pointer 01\OneDrive - PointCondominio\Área de Trabalho\Codigos\C#\Exercicio8\obj\Debug\net8.0\Exercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pointer 01\OneDrive - PointCondominio\Área de Trabalho\Codigos\C#\Exercicio8\obj\Debug\net8.0\Exercicio8.AssemblyInfoInputs.cache
+C:\Users\Pointer 01\OneDrive - PointCondominio\Área de Trabalho\Codigos\C#\Exercicio8\obj\Debug\net8.0\Exercicio8.AssemblyInfo.cs
+C:\Users\Pointer 01\OneDrive - PointCondominio\Área de Trabalho\Codigos\C#\Exercicio8\obj\Debug\net8.0\Exercicio8.csproj.CoreCompileInputs.cache
+C:\Users\Pointer 01\OneDrive - PointCondominio\Área de Trabalho\Codigos\C#\Exercicio8\obj\Debug\net8.0\Exercicio8.sourcelink.json
+C:\Users\Pointer 01\OneDrive - PointCondominio\Área de Trabalho\Codigos\C#\Exercicio8\bin\Debug\net8.0\Exercicio8.exe
+C:\Users\Pointer 01\OneDrive - PointCondominio\Área de Trabalho\Codigos\C#\Exercicio8\bin\Debug\net8.0\Exercicio8.deps.json
+C:\Users\Pointer 01\OneDrive - PointCondominio\Área de Trabalho\Codigos\C#\Exercicio8\bin\Debug\net8.0\Exercicio8.runtimeconfig.json
+C:\Users\Pointer 01\OneDrive - PointCondominio\Área de Trabalho\Codigos\C#\Exercicio8\bin\Debug\net8.0\Exercicio8.dll
+C:\Users\Pointer 01\OneDrive - PointCondominio\Área de Trabalho\Codigos\C#\Exercicio8\bin\Debug\net8.0\Exercicio8.pdb
+C:\Users\Pointer 01\OneDrive - PointCondominio\Área de Trabalho\Codigos\C#\Exercicio8\obj\Debug\net8.0\Exercicio8.dll
+C:\Users\Pointer 01\OneDrive - PointCondominio\Área de Trabalho\Codigos\C#\Exercicio8\obj\Debug\net8.0\refint\Exercicio8.dll
+C:\Users\Pointer 01\OneDrive - PointCondominio\Área de Trabalho\Codigos\C#\Exercicio8\obj\Debug\net8.0\Exercicio8.pdb
+C:\Users\Pointer 01\OneDrive - PointCondominio\Área de Trabalho\Codigos\C#\Exercicio8\obj\Debug\net8.0\Exercicio8.genruntimeconfig.cache
+C:\Users\Pointer 01\OneDrive - PointCondominio\Área de Trabalho\Codigos\C#\Exercicio8\obj\Debug\net8.0\ref\Exercicio8.dll
